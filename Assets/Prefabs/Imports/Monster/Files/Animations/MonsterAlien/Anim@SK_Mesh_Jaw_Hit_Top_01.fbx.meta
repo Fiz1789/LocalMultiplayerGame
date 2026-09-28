@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 5da114e2aded0654fbe5ad06990ab3c7
+timeCreated: 1523389538
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ankle_L_Joint
+    100004: Ankle_R_Joint
+    100006: Hip_Joint
+    100008: InToe_L_Joint
+    100010: InToe_R_Joint
+    100012: Knee_L_Joint
+    100014: Knee_R_Joint
+    100016: Leg_L_Joint
+    100018: Leg_R_Joint
+    100020: LowerJaw_End_Joint
+    100022: LowerJaw_Joint
+    100024: Lowerlip_Joint
+    100026: Nose_Joint
+    100028: OutToe_L_Joint
+    100030: OutToe_R_Joint
+    100032: Root_Joint
+    100034: Toes_L_Joint
+    100036: Toes_R_Joint
+    100038: Tongue_Joint
+    100040: Tooth_L_Joint
+    100042: Tooth_R_Joint
+    100044: UpperJaw_Joint
+    100046: Upperlip_Joint
+    400000: //RootNode
+    400002: Ankle_L_Joint
+    400004: Ankle_R_Joint
+    400006: Hip_Joint
+    400008: InToe_L_Joint
+    400010: InToe_R_Joint
+    400012: Knee_L_Joint
+    400014: Knee_R_Joint
+    400016: Leg_L_Joint
+    400018: Leg_R_Joint
+    400020: LowerJaw_End_Joint
+    400022: LowerJaw_Joint
+    400024: Lowerlip_Joint
+    400026: Nose_Joint
+    400028: OutToe_L_Joint
+    400030: OutToe_R_Joint
+    400032: Root_Joint
+    400034: Toes_L_Joint
+    400036: Toes_R_Joint
+    400038: Tongue_Joint
+    400040: Tooth_L_Joint
+    400042: Tooth_R_Joint
+    400044: UpperJaw_Joint
+    400046: Upperlip_Joint
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 42855e09c854d0b42a29b2aac68e1c32,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119969
+  packageName: Alien Monster Cartoony
+  packageVersion: 1.0
+  assetPath: Assets/Sets/Files/Animations/MonsterAlien/Anim@SK_Mesh_Jaw_Hit_Top_01.fbx
+  uploadId: 252174

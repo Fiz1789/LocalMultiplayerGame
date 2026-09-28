@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cde70d2d9d545764cada5e5752bb7666
+timeCreated: 1522851205
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119969
+  packageName: Alien Monster Cartoony
+  packageVersion: 1.0
+  assetPath: Assets/Sets/Files/Prefabs/Pref_Alien_Monster_Neutral.prefab
+  uploadId: 252174

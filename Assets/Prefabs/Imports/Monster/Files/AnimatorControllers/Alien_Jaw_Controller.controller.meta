@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac09a23d766a84646959ccc2640beb72
+timeCreated: 1522691449
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119969
+  packageName: Alien Monster Cartoony
+  packageVersion: 1.0
+  assetPath: Assets/Sets/Files/AnimatorControllers/Alien_Jaw_Controller.controller
+  uploadId: 252174
